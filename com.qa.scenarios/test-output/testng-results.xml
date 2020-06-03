@@ -2,20 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-06-03T17:58:07 IST" name="Default suite" finished-at="2020-06-03T17:58:15 IST" duration-ms="7346">
+  <suite started-at="2020-06-03T20:11:53 IST" name="Default suite" finished-at="2020-06-03T20:11:58 IST" duration-ms="4731">
     <groups>
     </groups>
-    <test started-at="2020-06-03T17:58:07 IST" name="Default test" finished-at="2020-06-03T17:58:15 IST" duration-ms="7346">
-      <class name="Testcases.HandlingJSAlertandPopup">
-        <test-method is-config="true" signature="setup()[pri:0, instance:Testcases.HandlingJSAlertandPopup@5c1a8622]" started-at="2020-06-03T17:58:08 IST" name="setup" finished-at="2020-06-03T17:58:09 IST" duration-ms="1629" status="PASS">
+    <test started-at="2020-06-03T20:11:53 IST" name="Default test" finished-at="2020-06-03T20:11:58 IST" duration-ms="4731">
+      <class name="Testcases.HandlingFrames">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Testcases.HandlingFrames@5ad851c9]" started-at="2020-06-03T20:11:53 IST" name="setup" finished-at="2020-06-03T20:11:56 IST" duration-ms="3040" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="HandlingAlertPopups()[pri:0, instance:Testcases.HandlingJSAlertandPopup@5c1a8622]" started-at="2020-06-03T17:58:09 IST" name="HandlingAlertPopups" finished-at="2020-06-03T17:58:15 IST" duration-ms="5607" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Testcases.HandlingFrames@5ad851c9]" started-at="2020-06-03T20:11:56 IST" name="teardown" finished-at="2020-06-03T20:11:56 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- HandlingAlertPopups -->
-      </class> <!-- Testcases.HandlingJSAlertandPopup -->
+        </test-method> <!-- teardown -->
+        <test-method signature="Handlingframes()[pri:0, instance:Testcases.HandlingFrames@5ad851c9]" started-at="2020-06-03T20:11:57 IST" name="Handlingframes" finished-at="2020-06-03T20:11:58 IST" duration-ms="1579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Handlingframes -->
+      </class> <!-- Testcases.HandlingFrames -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
