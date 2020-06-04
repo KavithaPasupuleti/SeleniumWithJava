@@ -37,9 +37,7 @@ public class HandlingFrames {
 	 for(WebElement we: frames) {
 		 //navigate to the frame with webelemnt
 		 we.click();
-		 System.out.println("WebElement"+we);
-
-	 }
+		}
 	 
 
   }

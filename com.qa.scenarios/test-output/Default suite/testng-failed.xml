@@ -3,13 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Testcases.HandlingFrames">
+      <class name="Testcases.HandlingJavaScriptExecutor">
         <methods>
-          <include name="teardown"/>
-          <include name="Handlingframes"/>
+          <include name="HandlingJavaScriptExecutor"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- Testcases.HandlingFrames -->
+      </class> <!-- Testcases.HandlingJavaScriptExecutor -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
