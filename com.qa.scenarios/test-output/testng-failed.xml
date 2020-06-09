@@ -3,12 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Testcases.HandlingJavaScriptExecutor">
+      <class name="Testcases.ExtentReportGeneration">
         <methods>
-          <include name="HandlingJavaScriptExecutor"/>
+          <include name="teardown"/>
+          <include name="ExtentDemo"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- Testcases.HandlingJavaScriptExecutor -->
+      </class> <!-- Testcases.ExtentReportGeneration -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -3,7 +3,6 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.Alert"/>
-    <fullyQualifiedTypeName name="org.testng.annotations.AfterClass"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="org.testng.annotations.BeforeTest"/>
@@ -17,10 +16,13 @@
     <fullyQualifiedTypeName name="org.openqa.selenium.OutputType"/>
     <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="org.apache.commons.io.FileUtils"/>
-    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
     <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="java.util.Properties"/>
     <fullyQualifiedTypeName name="java.io.FileInputStream"/>
     <fullyQualifiedTypeName name="org.testng.annotations.BeforeClass"/>
     <fullyQualifiedTypeName name="org.openqa.selenium.htmlunit.HtmlUnitDriver"/>
+    <fullyQualifiedTypeName name="com.gargoylesoftware.htmlunit.javascript.background.JavaScriptExecutor"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+    <fullyQualifiedTypeName name="org.openqa.selenium.interactions.Action"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.AfterClass"/>
 </qualifiedTypeNameHistroy>
